@@ -1,8 +1,6 @@
  
 #  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hi there, I'm Rooney Mwathani 
 
-<a href="https://app.daily.dev/Mwathani"><img src="https://api.daily.dev/devcards/899ca26c46b94c28af3ed8e48f18c397.png?r=6ew" width="400" alt="ROONEY's Dev Card"/></a>
-
 <p aligh="left">
 
   <p>Hi 👋, I am currently working on individual school project Employee Profile & Appraisal Management System</br>
