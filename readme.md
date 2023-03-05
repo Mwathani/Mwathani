@@ -63,9 +63,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mwathani&show_icons=true" />
 </picture>
 
-<p>
-[![Mwathani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwathani)](https://github.com/Mwathani/github-readme-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mwathani&theme=dark)](https://git.io/streak-stats)
 <hr>
 <br>
 
