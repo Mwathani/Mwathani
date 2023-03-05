@@ -64,7 +64,7 @@
 </picture>
 
 <p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwathani)](https://github.com/anuraghazra/github-readme-stats)
+[![Mwathani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwathani)](https://github.com/Mwathani/github-readme-stats)
 </p>
 <hr>
 <br>
