@@ -10,9 +10,9 @@
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
      	
   🔭&nbsp;With code, the possibilities are endless.\
-  👨‍💻 &nbsp;I'm currently learning React.js and Docker\
-  📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <benson.m@blinx.co.ke> \
-  💡 &nbsp;I don't just build software, i make sure it solves the problem at hand to the latter. For me, a happy client is a loyal customer.
+  👨‍💻 &nbsp;I'm currently learning Django\
+  📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <mwatahnirooney@gmail.com> \
+  💡 &nbsp;I don't just build software, but ethusiastic in solving real problems using code. For me, a happy client is a loyal customer.
 </p>
 <br>
 
