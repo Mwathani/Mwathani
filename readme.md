@@ -4,8 +4,8 @@
 <a href="https://app.daily.dev/Mwathani"><img src="https://api.daily.dev/devcards/899ca26c46b94c28af3ed8e48f18c397.png?r=8uq" width="400" align = "right" alt="ROONEY's Dev Card"/></a>
 <p aligh="left">
 
-  <p>Hi 👋, I am currently working on individual school project Employee Profile & Appraisal Management System</br>
-   I am a Web Developer.I am currently working remotely from
+  <p>A Software Developer</br>
+   I am currently working remotely from
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
      	
   🔭&nbsp;With code, the possibilities are endless.\
