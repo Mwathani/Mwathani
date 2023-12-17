@@ -6,7 +6,7 @@
 
   <p>A Software Developer</br>
    I am currently working remotely from
-    <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
+    <b>Nairobi,Kenya </b>.</p>
      	
   🔭&nbsp;With code, the possibilities are endless.\
   👨‍💻 &nbsp;I'm currently learning Django\
