@@ -3,12 +3,12 @@
 
 <p aligh="left">
 
-  <p>A Software Developer</br>
+  <p>Full Stack Developer</br>
    I am currently working remotely from
     <b>Nairobi,Kenya </b>.</p>
      	
   🔭&nbsp;With code, the possibilities are endless.\
-  👨‍💻 &nbsp;I'm currently learning Django\
+  👨‍💻 &nbsp;I'm currently learning ReactJs\
   📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <mwatahnirooney@gmail.com> \
   💡 &nbsp;I don't just build software, but ethusiastic in solving real problems using code. For me, a happy client is a loyal customer.
 </p>
