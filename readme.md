@@ -3,7 +3,7 @@
 
 <p aligh="left">
 
-  <p>Full Stack Developer</br>
+  <p>Full Stack Web Developer</br>
    I am currently working remotely from
     <b>Nairobi,Kenya </b>.</p>
      	
