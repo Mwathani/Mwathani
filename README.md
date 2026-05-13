@@ -6,16 +6,9 @@ I am a versatile developer focused on building scalable, institutional-grade sol
 ---
 
 ## 🚀 About Me
- HEAD
 - 🎓 **B.Sc. in IT (Second Class Upper)** from Maseno University.
 - 💡 **Just-in-Time Learner**: I focus on building functional projects to solve institutional gaps.
 - 🐧 **Environment**: Developing on **Ubuntu Linux** (HP 15 Notebook) with a focus on lean coding.
-
-- 🎓 **B.Sc. in Information Technology** (Second Class Upper) - Maseno University.
-- 💡 **Just-in-Time Learner**: I prioritize building functional, real-world projects over theoretical study.
-- 🐧 **Power User**: Developing on **Ubuntu Linux** (HP 15 Notebook) with a focus on resource-efficient "lean" coding.
-- 🧠 **Future Focus**: Preparing for an **AIMS Master's** with my project, **SentimentSync AI**.
- 4b75224 (Enhance profile with professional skills and DLP experience)
 
 ---
 
@@ -42,7 +35,7 @@ I am a versatile developer focused on building scalable, institutional-grade sol
 
 ### 📊 [Asset Maintenance Tracker](https://github.com/Mwathani/Asset-Maintenance-Tracker)
 A real-time monitoring dashboard for institutional assets using a containerized stack.
-- **Stack**: Next.js, FastAPI, Docker, Prometheus, Grafana.
+- **Stack**: Laravel, FastAPI, Docker, Prometheus, Grafana.
 
 ### 📚 [Automated Library System](https://github.com/Mwathani/Automated-Library-System)
 An "offline-first" management system designed for Kenyan schools.
@@ -58,6 +51,10 @@ An "offline-first" management system designed for Kenyan schools.
 
 ## 📫 Connect with Me
 - 📍 Based in: **Nairobi, Kenya**.
+- ## 📬 Reach Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwatahnirooney@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254759746625)
 - 💼 Open to: Full-stack roles, DevOps engineering, and EdTech collaborations.
 
 *"Building institutional resilience through code."*
