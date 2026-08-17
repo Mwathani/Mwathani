@@ -1,6 +1,6 @@
 # Hi there, I'm Rooney! 👋
 
-### 👨‍💻 Full-Stack Developer | AI & DevOps Engineer | DLP Intern
+### 👨‍💻 Full-Stack Developer | DLP Intern
 I am a versatile developer focused on building scalable, institutional-grade solutions. Currently serving as a **Digital Literacy Programme (DLP) Intern** at the **Ministry of Education (Kenya)**. I specialize in bridging gaps in education and finance through technology.
 
 ---
